@@ -57,5 +57,5 @@ install.packages("e1071")
 install.packages("randomForest")
 install.packages("nnet")
 
-##Results and Conclusion
+## Results and Conclusion
 After training and evaluating all models, the Random Forest algorithm (or whichever is the best) provided the highest accuracy in detecting phishing websites. Combining multiple models further improved the prediction results.
